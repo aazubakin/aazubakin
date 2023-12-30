@@ -1,4 +1,4 @@
-<code>👷 Speciality: Software engineer / Frontend(Vue.js/Nuxt) / Backend(Python/Django)</code><br>
+<code>👷 Speciality: Software engineer / Backend(Python/Django)</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, Python</code>
